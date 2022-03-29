@@ -7,4 +7,4 @@
 - `Hibernate`
 - `H2`
 - `Swagger`
-- `OAuth2`
+- `OAuth2(Google, Naver)`
