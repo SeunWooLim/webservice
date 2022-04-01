@@ -4,6 +4,10 @@ plugins {
 	id 'java'
 }
 
+jar{
+	enabled = false
+}
+
 group = 'com.lsw'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '1.8'
@@ -23,6 +27,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
 	implementation 'org.springframework.session:spring-session-jdbc'
 	implementation 'org.mariadb.jdbc:mariadb-java-client'
+	implementation 'org.springframework.boot:spring-boot-maven-plugin'
 
 	testImplementation 'org.springframework.security:spring-security-test'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
