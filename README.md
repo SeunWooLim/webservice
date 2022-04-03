@@ -1,4 +1,5 @@
 ### SpringBoot WebService Project
+> used skill stack
 - `Java11`
 - `SpringBoot`
 - `Gradle`
@@ -17,4 +18,4 @@
   - `RDS(Maria DB)`
   - `S3`
   - `CodeDeploy`
-
+  
