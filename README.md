@@ -1,6 +1,6 @@
 ### SpringBoot WebService Project
 > used skill stack
-- `Java11`
+- `Java8`
 - `SpringBoot`
 - `Gradle`
 - `Rest API`
