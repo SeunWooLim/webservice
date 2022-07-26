@@ -1,5 +1,5 @@
 ### SpringBoot WebService Project
-> used skill stack
+> used skill stack.
 - `Java8`
 - `SpringBoot`
 - `Gradle`
